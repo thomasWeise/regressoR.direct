@@ -1,4 +1,4 @@
-library("regressoR.splines")
+library("regressoR.direct")
 context("default 2")
 
 

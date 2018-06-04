@@ -43,8 +43,6 @@
 #' @param transformation.y the transformation along the \code{y}-axis, or
 #'   \code{NULL} if none was applied to the data
 #' @param metric.transformed the transformed metric for the first fitting step
-#' @param protected should the function be limited to the range of values
-#'   actually ocurring in the data?
 #' @param q the ignored quality parameter
 #' @return On success, an instance of \code{\link{DirectFitModel.new}},
 #'   \code{NULL} on failure.

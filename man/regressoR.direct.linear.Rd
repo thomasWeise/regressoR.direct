@@ -19,9 +19,6 @@ regressoR.direct.linear(metric, transformation.x = NULL,
 \item{metric.transformed}{the transformed metric for the first fitting step}
 
 \item{q}{the ignored quality parameter}
-
-\item{protected}{should the function be limited to the range of values
-actually ocurring in the data?}
 }
 \value{
 On success, an instance of \code{\link{DirectFitModel.new}},

@@ -1,6 +1,7 @@
 # The internal linear interpolator function
+#' @importFrom regressoR.base xy.order
 .linear.fitter <- function(xx, yy) {
-  or <- order(xx);
+  or  <- xy.order(xx, yy);
   xx  <- xx[or];
   yy  <- yy[or];
   rm("or");

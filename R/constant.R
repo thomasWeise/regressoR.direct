@@ -1,6 +1,7 @@
 # The internal constant interpolator function
+#' @importFrom regressoR.base xy.order
 .constant.fitter <- function(xx, yy) {
-  or <- order(xx);
+  or  <- xy.order(xx, yy);
   xx  <- xx[or];
   yy  <- yy[or];
   rm("or");

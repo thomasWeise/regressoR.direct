@@ -12,7 +12,7 @@ URL: http://www.github.com/thomasWeise/regressoR.direct
 BugReports: http://www.github.com/thomasWeise/regressoR.direct/issues
 Imports: learnerSelectoR (>= 0.8.7),
          methods (>= 3.3.2),
-         regressoR.base (>= 0.8.5),
+         regressoR.base (>= 0.8.6),
          regressoR.quality (>= 0.8.5),
          stats (>= 3.3.2),
          utilizeR (>= 0.8.4)

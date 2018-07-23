@@ -1,7 +1,7 @@
 Package: regressoR.direct
 Type: Package
 Title: An R package for Automatic Modeling of 2D-data using "Direct Models" which Represent the Data Based on Either Constant or Linear Interpolation
-Version: 0.8.0
+Version: 0.8.1
 Author: Dr. Thomas Weise <tweise@hfuu.edu.cn>
 Maintainer: Dr. Thomas Weise <tweise@hfuu.edu.cn>
 Description: This package provides methods for simply representing data by direct interpolation.
